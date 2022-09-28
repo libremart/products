@@ -1,19 +1,21 @@
 {
+    "id": "1",
+    "published": "1/1/1990",
+    "updated": "1/1/1990",
     "product": "musify",
     "productName": "Musify",
     "productPackage": "com.valerie.musify",
     "vendor": "gokadzev",
     "vendorName": "Valeri Gokadze",
     "iconUrl": "https://raw.githubusercontent.com/gokadzev/Musify/master/android/app/src/main/res/mipmap-xxxhdpi/launcher_icon.png",
-    "desc": {
-        "subTitle": "Music Streaming and Downloading app made in Flutter!",
-        "description": "Online Song Search 🔍 \n Streaming Support 🎵\n Download Support ⬇️\nPlay Local / Downloaded Songs Support 📂\nHigh Quality mp3 / m4a / flac Format 🔥\nLyrics Support 📝\nSponsor Block Support ✂️\nNo Ads 🚫\nNo Subscriptions 💵\n12 Supported Languages 🇺🇸\nMaterial UI & Accent Colors 🎨"
-    },
-    "screenshots": {
-        "1": "url",
-        "2": "url",
-        "3": "url"
-    },
-    "links": {},
+    "subTitle": "Music Streaming and Downloading app made in Flutter!",
+    "description": "Online Song Search 🔍 \n Streaming Support 🎵\n Download Support ⬇️\nPlay Local / Downloaded Songs Support 📂\nHigh Quality mp3 / m4a / flac Format 🔥\nLyrics Support 📝\nSponsor Block Support ✂️\nNo Ads 🚫\nNo Subscriptions 💵\n12 Supported Languages 🇺🇸\nMaterial UI & Accent Colors 🎨",
+    "screenshots": [
+        "url",
+        "url",
+        "url"
+    ],
+    "donateLink": "",
+    "links": [],
     "donate": ""
 }
